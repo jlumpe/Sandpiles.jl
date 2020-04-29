@@ -1,0 +1,4 @@
+name = "Sandpiles"
+uuid = "231a49f5-1b5b-4858-8b5e-3d13fa1bac8e"
+authors = ["Jared Lumpe <mjlumpe@gmail.com>"]
+version = "0.1.0"
