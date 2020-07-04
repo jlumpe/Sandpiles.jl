@@ -1,5 +1,14 @@
 module Sandpiles
 
-greet() = print("Hello World!")
+using Random
+using DocStringExtensions
+
+
+export isstable, stabilize!, add!, idpile, idpile!
+
+
+include("macros.jl")
+include("sandpile.jl")
+
 
 end # module
